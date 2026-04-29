@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+.env
+env/
+ENV/
+auth.json
+
+# Pytest & Reports
+.pytest_cache/
+report.html
+failed_screenshots/
+.cache/
+.coverage
+htmlcov/
+test-results/
+
+# IDEs & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Playwright
+playwright-report/
+blob-report/
+playwright/.local-browsers/
